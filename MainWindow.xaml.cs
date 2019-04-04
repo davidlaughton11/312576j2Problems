@@ -1,4 +1,8 @@
-﻿using System;
+//David Laughton
+//April 4th 2019
+//Mod inverse
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
